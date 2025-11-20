@@ -31,7 +31,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on backend systems, APIs, and scalable server applications  
 - 🌱 Improving my knowledge in **cloud technologies & web security**  
-- 💬 Ask me about **Python, Laravel, REST APIs, MySQL**  
+- 💬 Ask me about **Python, Laravel, PHP, MySQL**  
 - 📫 Reach me at: **scutariulaur@gmail.com**
 
 ---
