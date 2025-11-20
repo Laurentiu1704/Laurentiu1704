@@ -33,6 +33,7 @@
 - 🌱 Improving my knowledge in **cloud technologies & web security**  
 - 💬 Ask me about **Python, Laravel, PHP, MySQL**  
 - 📫 Reach me at: **scutariulaur@gmail.com**
+- 🌍 "Netherlands 🇳🇱 (Originally from Romania 🇷🇴)"
 
 ---
 
